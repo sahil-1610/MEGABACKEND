@@ -13,7 +13,7 @@ router.route("/register").post(
        },
        {
          name: "coverImage",
-         maxCunt: 1
+         maxCount: 1
        }
     ]),
     registerUser
